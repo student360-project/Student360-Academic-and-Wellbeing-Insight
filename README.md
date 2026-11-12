@@ -70,7 +70,6 @@ The project demonstrates how data analytics and machine learning can support edu
 
 ```text
 Student360-Academic-and-Wellbeing-Insight/
-├── assets/
 ├── dashboard/
 │   └── dashboard.py
 ├── data/
@@ -78,7 +77,6 @@ Student360-Academic-and-Wellbeing-Insight/
 ├── models/
 │   ├── academic_model.py
 │   └── evaluate_model.py
-├── app.py
 ├── README.md
 └── requirements.txt
 ```
